@@ -1,2 +1,2 @@
-# java-learning
-java学习
+# c++-learning
+c++学习
